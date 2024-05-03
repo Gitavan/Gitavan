@@ -22,7 +22,6 @@ Feel free to explore my repositories and reach out to collaborate on projects or
 - 💼 I'm currently looking into data science jobs
 - 🌱 I'm currently learning SQL
 - 💡 I'm interested in Asian literature and self-development, and I enjoy exploring new ideas and technologies.
-- 📫 You can reach me via [email](mailto:Athavan.R@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/athavanramalingam/).
 
 ## Projects
 
@@ -32,19 +31,40 @@ Here are some of the projects I've been working on:
 - [Project 2 Name](link-to-project-2): Brief description of project 2.
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
-## Skills
-My proficiency in programming languages.
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| Arduino   |
-|     3| HTML5     |
-|     4| C++       |
-  
-<!--- Technologies/Frameworks:
-- Tools: [List of Tools]-->
-
-## GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <h2>Skills</h2>
+    <p>My proficiency in programming languages.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Languages</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Arduino</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>HTML5</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>C++</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="flex: 1;">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical" alt="My GitHub Stats" />
+  </div>
+</div>
 
