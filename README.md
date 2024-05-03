@@ -9,8 +9,7 @@ I'm passionate about Particle Physics and Data Science. Welcome to my GitHub pro
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a/>
 </div>
-
-https://komarev.com/ghpvc/?username=gitavan
+<img src="https://komarev.com/ghpvc/?username=gitavan&style=flat-square&color=blue" alt=""/>
 
 
 ## About Me
