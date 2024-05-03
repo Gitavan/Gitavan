@@ -37,6 +37,5 @@ My proficiency in programming languages ranked.
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/athavanramalingam/)
 
----
-> Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
-- Athavan
+ Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
+
