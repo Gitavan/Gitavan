@@ -4,6 +4,8 @@
 </h1>
 
 I'm passionate about Particle Physics and Data Science. Welcome to my GitHub profile!
+Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/athavanramalingam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -45,7 +47,4 @@ My proficiency in programming languages.
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
-
-
- Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
 
