@@ -18,8 +18,14 @@ Here are some of the projects I've been working on:
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
 ## Skills
-
-- Programming Languages: Python, Arduino, HTML5, C++
+My proficiency in programming languages ranked.
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Arduino   |
+|     3| HTML5     |
+|     4| C++       |
+  
 <!--- Technologies/Frameworks:
 - Tools: [List of Tools]-->
 
@@ -31,5 +37,6 @@ Here are some of the projects I've been working on:
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/athavanramalingam/)
 
-
-Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
+---
+> Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
+- Athavan
