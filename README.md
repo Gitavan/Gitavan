@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Athavan! 👋
 
 I'm passionate about Particle Physics and Data Science. Welcome to my GitHub profile!
 
@@ -7,7 +7,7 @@ I'm passionate about Particle Physics and Data Science. Welcome to my GitHub pro
 - 💼 I'm currently looking into data science jobs
 - 🌱 I'm currently learning SQL
 - 💡 I'm interested in Asian literature and self-development, and I enjoy exploring new ideas and technologies.
-- 📫 You can reach me via [Athavan.R@gmail.com] or connect with me on [LinkedIn].
+- 📫 You can reach me via [email](Athavan.R@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/athavanramalingam/).
 
 ## Projects
 
