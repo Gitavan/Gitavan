@@ -32,7 +32,7 @@ Here are some of the projects I've been working on:
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex-basis: 48%;">
+  <div style="width: 48%;">
     <h2>Skills</h2>
     <p>My proficiency in programming languages.</p>
     <table>
@@ -62,8 +62,9 @@ Here are some of the projects I've been working on:
       </tbody>
     </table>
   </div>
-  <div style="flex-basis: 48%;">
+  <div style="width: 48%;">
     <h2>GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical" alt="My GitHub Stats" />
   </div>
 </div>
+
