@@ -8,7 +8,7 @@ I'm passionate about Particle Physics and Data Science. Welcome to my GitHub pro
   <a href="https://www.linkedin.com/in/athavanramalingam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a/>
-  <img src="https://komarev.com/ghpvc/?username=gitavan&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=gitavan&style=flat-square&color=blue" alt="" width="200" height="40" />
 </div>
 
 
