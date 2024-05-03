@@ -18,7 +18,7 @@ Here are some of the projects I've been working on:
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
 ## Skills
-My proficiency in programming languages ranked.
+My proficiency in programming languages.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
