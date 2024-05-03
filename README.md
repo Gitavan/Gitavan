@@ -1,9 +1,9 @@
 <h1>
-  Hey there!
+  Welcome to my GitHub! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm passionate about Particle Physics and Data Science. Welcome to my GitHub profile! <br>
+I'm passionate about Particle Physics and Data Science. <br>
 Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
 
 <div id="badges">
