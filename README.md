@@ -1,4 +1,7 @@
-# Hello, I'm Athavan! 👋
+<h1>
+  Hello, I'm Athavan!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 I'm passionate about Particle Physics and Data Science. Welcome to my GitHub profile!
 <div id="badges">
@@ -6,6 +9,8 @@ I'm passionate about Particle Physics and Data Science. Welcome to my GitHub pro
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a/>
 </div>
+
+https://komarev.com/ghpvc/?username=gitavan
 
 
 ## About Me
