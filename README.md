@@ -45,6 +45,5 @@ My proficiency in programming languages.
 
 ## GitHub Stats
 <div align="center">
-  <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical" alt="My GitHub Stats" />
 
