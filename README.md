@@ -31,9 +31,9 @@ Here are some of the projects I've been working on:
 - [Project 2 Name](link-to-project-2): Brief description of project 2.
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
-## Skills                                      ## GitHub Stats
+## Skills                                   
 
-My proficiency in programming languages.       ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
+My proficiency in programming languages.       
 
 | Rank | Languages |
 |-----:|-----------|
@@ -42,6 +42,6 @@ My proficiency in programming languages.       ![My GitHub Stats](https://github
 |   3  | HTML5     |
 |   4  | C++       |
 
-
-
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
 
