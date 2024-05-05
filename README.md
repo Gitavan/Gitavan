@@ -4,7 +4,7 @@
 </h1>
 
 I'm passionate about Particle Physics and Data Science. <br>
-Feel free to explore my repositories and reach out to collaborate on projects or just to say hi! 😊
+Feel free to explore my repositories and reach out to collaborate on projects or to say hi! 😊
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/athavanramalingam/">
@@ -21,13 +21,13 @@ Feel free to explore my repositories and reach out to collaborate on projects or
 
 - 💼 I'm currently looking into data science jobs
 - 🌱 I'm currently learning SQL
-- 💡 I'm interested in Asian literature and self-development, and I enjoy exploring new ideas and technologies.
+- 💡 I'm interested in Asian literature and self-development; I enjoy exploring new ideas and technologies.
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
-- [Project 1 Name](link-to-project-1): Brief description of project 1.
+- [Sun's Wobble](Sun-Wobble-Due-To-Neptune-And-Jupiter): The Sun's movements affected by the gravitational forces of Jupiter and Saturn
 - [Project 2 Name](link-to-project-2): Brief description of project 2.
 - [Project 3 Name](link-to-project-3): Brief description of project 3.
 
