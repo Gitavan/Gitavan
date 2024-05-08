@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 
 - [Sun's Wobble](https://github.com/Gitavan/Sun-Wobble-Due-To-Neptune-And-Jupiter): The Sun's movements affected by the gravitational forces of Jupiter and Saturn - Python
 - [Monte Carlo](https://github.com/Gitavan/2-D-Monte-Carlo-simulation-of-a-magnetic-material): A 2-D Monte Carlo simulation of a magnetic material.
-- [Project 3 Name](link-to-project-3): Brief description of project 3.
+- [Data Clean Flu Data](https://github.com/Gitavan/Data-Cleaning-of-Flu-Data/tree): Brief description of project 3.
 
 ## Skills                                   
 
