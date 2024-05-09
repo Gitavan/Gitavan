@@ -37,12 +37,7 @@ My proficiency in programming languages.
 |------|-------|-------|-------|-------|
 |      | <img src="https://github.com/Gitavan/Gitavan/blob/main/Python.png" alt="Python" width="100"> | <img src="https://github.com/Gitavan/Gitavan/blob/main/Arduino.png" alt="Arduino" width="100"> | <img src="https://github.com/Gitavan/Gitavan/blob/main/HTML5.png" alt="HTML5" width="100"> | <img src="https://github.com/Gitavan/Gitavan/blob/main/C%2B%2B.png" alt="C++" width="100"> |
 
-| Rank | Languages |
-|-----:|-----------|
-|   1  | <img src="https://github.com/Gitavan/Gitavan/blob/main/Python.png" alt="Python" width="100"> |
-|   2  | <img src="https://github.com/Gitavan/Gitavan/blob/main/Arduino.png" alt="Arduino" width="100"> |
-|   3  | <img src="https://github.com/Gitavan/Gitavan/blob/main/HTML5.png" alt="HTML5" width="100"> |
-|   4  | <img src="https://github.com/Gitavan/Gitavan/blob/main/C%2B%2B.png" alt="C++" width="100"> |
+
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
 
