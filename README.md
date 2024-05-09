@@ -36,7 +36,7 @@ My proficiency in programming languages.
 
 | Rank | Languages |
 |-----:|-----------|
-|   1  | ![Python](path/to/Python.png)  |
+|   1  | ![Python](https://github.com/Gitavan/Gitavan/blob/main/Python.png)  |
 |   2  | Arduino   |
 |   3  | HTML5     |
 |   4  | C++       |
