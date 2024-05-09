@@ -36,7 +36,7 @@ My proficiency in programming languages.
 
 | Rank | Languages |
 |-----:|-----------|
-|   1  | Python    |
+|   1  | ![Python](images/python_logo.png)   |
 |   2  | Arduino   |
 |   3  | HTML5     |
 |   4  | C++       |
