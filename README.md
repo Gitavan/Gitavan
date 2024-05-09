@@ -37,9 +37,9 @@ My proficiency in programming languages.
 | Rank | Languages |
 |-----:|-----------|
 |   1  | ![Python](https://github.com/Gitavan/Gitavan/blob/main/Python.png)  |
-|   2  | Arduino   |
-|   3  | HTML5     |
-|   4  | C++       |
+|   2  | ![Arduino](https://github.com/Gitavan/Gitavan/blob/main/Arduino.png)   |
+|   3  | ![HTML5](https://github.com/Gitavan/Gitavan/blob/main/HTML5.png)     |
+|   4  | ![C++](https://github.com/Gitavan/Gitavan/blob/main/C%2B%2B.png)       |
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitavan&show_icons=true&theme=radical)
