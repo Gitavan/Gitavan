@@ -19,8 +19,8 @@ Feel free to explore my repositories and reach out to collaborate on projects or
 
 ## About Me
 
-- 💼 I'm currently looking into data science jobs
-- 🌱 I'm currently learning SQL
+- 💼 I'm looking into data science jobs and particle physics PhDs.
+- 🌱 I'm currently learning CERN ROOT.
 - 💡 I'm interested in Asian literature and self-development; I enjoy exploring new ideas and technologies.
 
 ## Projects
