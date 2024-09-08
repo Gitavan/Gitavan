@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm passionate about Particle Physics and Data Science. <br>
+Current PhD student in Particle Physics. <br>
 Feel free to explore my repositories and reach out to collaborate on projects or to say hi! 😊
 
 <div id="badges">
