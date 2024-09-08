@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Current PhD student in Particle Physics. <br>
+I'm looking into data science jobs and particle physics PhDs. <br>
 Feel free to explore my repositories and reach out to collaborate on projects or to say hi! 😊
 
 <div id="badges">
@@ -19,7 +19,7 @@ Feel free to explore my repositories and reach out to collaborate on projects or
 
 ## About Me
 
-- 💼 I'm looking into data science jobs and particle physics PhDs.
+- 💼 Current PhD student in Particle Physics
 - 🌱 I'm currently learning The Odin Project.
 - 💡 I'm interested in Asian literature and self-development; I enjoy exploring new ideas and technologies.
 
