@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm looking into data science jobs and particle physics PhDs. <br>
+I'm a particle physics student working with the eic on the SVT. <br>
 Feel free to explore my repositories and reach out to collaborate on projects or to say hi! 😊
 
 <div id="badges">
